@@ -12,3 +12,8 @@ Topics covered:
 
 ### 2020/11/5 - Discssion leader: TBD
 Topics covered...
+
+
+### Topics / Questions we should look at
+- [ ] Built in optimization? 
+- [ ] plotting 
