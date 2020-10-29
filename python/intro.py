@@ -13,25 +13,45 @@
 
 
 # print("hello census")
-
+#
 # x = 10
 # y = 20
-
+#
+#
 # print(x + 5)
 # print('x =', x)
+# print(x + y)
+
+#
+
+# x = 40
 #
 # if x > 5:
 #     print("made it")
+#     print("line two of if statement")
+#     if x > 10:
+#         print("x also bigggg")
 # else:
 #     print("ELSE statement")
+
+
 #
 #
 # # Comments are the same as in R
 #
 #
+# x = 5
 # y = 5.0
+# z = True
+# Z = False
+# a = 'livsey'
+# b = range(10)
+# print(type(b))
+# print(type(a))
 # print(type(x))
 # print(type(y))
+# print(type(z))
+# print(type(Z))
 #
 # # Arithmetic Operators
 #
@@ -49,13 +69,13 @@
 # while a < 10:
 #     print(a)
 #     a, b = b, a+b
-#     print("a =", a)
-#     print("b =", b)
-
-
+#
+# # ---- Lists
+#
 # squares = [1, 4, 9, 16, 25]
 # print(squares)
-# # Like strings (and all other built-in sequence types), lists can be indexed and sliced:
+#
+# # # Like strings (and all other built-in sequence types), lists can be indexed and sliced:
 # print(squares[0])  # indexing returns the item
 # # 1
 # print(squares[-1]) # start at end
@@ -69,25 +89,31 @@
 # # [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 #
 # cubes = [1, 8, 27, 65, 125]  # 64, not 65!
+# print(cubes)
 # cubes[3] = 64  # replace the wrong value
 # print(cubes)
-#
-# # use the append() METHOD.... need to learn more about methods during a later meeting
+# #
+# # # use the append() METHOD.... need to learn more about methods during a later meeting
 # cubes.append(216)  # add the cube of 6
 # cubes.append(7 ** 3)  # and the cube of 7
+# cubes = cubes + [8 ** 3]
 # print(cubes)
 # # [1, 8, 27, 64, 125, 216, 343]
 
 
-# ---- Lets write our own Fibonacci sequence that populates a list
+# # ---- Lets write our own Fibonacci sequence that populates a list
+# fib_seq = [0, 1]
+# while fib_seq[-1] < 500:
+#     fib_seq.append(fib_seq[-2] + fib_seq[-1])
+# print(fib_seq)
 #
-#
-#
-#
-#
-#
-#
-#
+# # Tucker Sol'n
+# a, b = 0, 1
+# fib = [a]
+# while a < 500:
+#     a, b = b, a + b
+#     fib = fib + [a]
+# print(fib)
 
 
 # Assignment to slices is also possible, and this can even change the size of the list or clear it entirely:
