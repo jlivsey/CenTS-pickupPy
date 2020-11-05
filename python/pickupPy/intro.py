@@ -101,7 +101,7 @@
 # # [1, 8, 27, 64, 125, 216, 343]
 
 
-# # ---- Lets write our own Fibonacci sequence that populates a list
+# ---- Lets write our own Fibonacci sequence that populates a list
 # fib_seq = [0, 1]
 # while fib_seq[-1] < 500:
 #     fib_seq.append(fib_seq[-2] + fib_seq[-1])
