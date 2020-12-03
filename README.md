@@ -22,5 +22,6 @@ Topics covered:
 
 
 ### Topics / Questions we should look at
-- [ ] Built in optimization? 
+- [ ] NumPy
+    - [ ] Built in optimization? 
 - [ ] plotting 
