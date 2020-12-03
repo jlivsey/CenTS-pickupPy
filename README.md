@@ -18,7 +18,7 @@ Topics covered:
 - dictionaries
 
 ### 2020/12/3 - Discssion leader: JL
-- 
+- Function defaults
 
 
 ### Topics / Questions we should look at
