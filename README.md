@@ -1,6 +1,7 @@
 # CenTS (CENsus Time Series) reading group on python
 
 The beginning source of information will come from (https://docs.python.org/3/tutorial/)
+Material for intro to numpy will come from (https://numpy.org/doc/stable/user/basics.html)
 
 ## Meeting days:
 
