@@ -5,26 +5,26 @@ Material for intro to numpy will come from (https://numpy.org/doc/stable/user/ba
 
 ## Meeting days:
 
-### 2020/10/29 - Discussion leader: JL
-Topics covered:
-- setup
-- variable types
-- control flow tools 
+### Day 5 -2020/12/17 - Discussion leader: JL
+- Getting started with Jupyter Notebooks
+- numpy
 
-### 2020/11/5 - Discssion leader: JL
+### Day 4 - 2020/12/10 - Discussion leader: TM
+- Lists
+- matrix list comprehension
+
+### Day 3 - 2020/12/3 - Discssion leader: JL
+- Function defaults
+
+### Day 2 - 2020/11/5 - Discssion leader: JL
 - PyCharm Projects
 - simple functions 
 - default value scope
 - sets
 - dictionaries
 
-### 2020/12/3 - Discssion leader: JL
-- Function defaults
-
-### 2020/12/10 - Discussion leader: TM
-- Lists
-- matrix list comprehension
-
-### 2020/12/17 - Discussion leader: JL
-- Getting started with Jupyter Notebooks
-- numpy
+### Day 1 - 2020/10/29 - Discussion leader: JL
+Topics covered:
+- setup
+- variable types
+- control flow tools 
