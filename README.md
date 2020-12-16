@@ -20,8 +20,10 @@ Topics covered:
 ### 2020/12/3 - Discssion leader: JL
 - Function defaults
 
+### 2020/12/10 - Discussion leader: TM
+- Lists
+- matrix list comprehension
 
-### Topics / Questions we should look at
-- [ ] NumPy
-    - [ ] Built in optimization? 
-- [ ] plotting 
+### 2020/12/17 - Discussion leader: JL
+- Getting started with Jupyter Notebooks
+- numpy
