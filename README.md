@@ -24,7 +24,6 @@ Material for intro to numpy will come from (https://numpy.org/doc/stable/user/ba
 - dictionaries
 
 ### Day 1 - 2020/10/29 - Discussion leader: JL
-Topics covered:
 - setup
 - variable types
 - control flow tools 
