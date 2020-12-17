@@ -3,6 +3,9 @@
 The beginning source of information will come from (https://docs.python.org/3/tutorial/)
 Material for intro to numpy will come from (https://numpy.org/doc/stable/user/basics.html)
 
+## To do list:
+- [ ] random number generation
+
 ## Meeting days:
 
 ### Day 5 -2020/12/17 - Discussion leader: JL
@@ -27,3 +30,5 @@ Material for intro to numpy will come from (https://numpy.org/doc/stable/user/ba
 - setup
 - variable types
 - control flow tools 
+
+
