@@ -8,6 +8,9 @@ Material for intro to numpy will come from (https://numpy.org/doc/stable/user/ba
 
 ## Meeting days:
 
+### Day 7 - 2021/01/21 - Discussion leader: AR
+- scipy brief intro
+
 ### Day 6 - 2021/01/07 - Discussion leader: JL
 - numpy con't
 
